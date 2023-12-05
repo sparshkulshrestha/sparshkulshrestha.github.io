@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# ABOUT ME
-
 
 ## Sparsh Kulshrestha (dotdotslash)
 Cybersecurity researcher: venturing into the uncharted territories of emerging threats. My focus? Web applications, mobile, shadow IT, and critical infrastructure (CI) security. I dissect attacks with surgical precision, leaving no vulnerability unexamined.
