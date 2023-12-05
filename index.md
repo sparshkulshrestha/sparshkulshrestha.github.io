@@ -4,22 +4,22 @@ layout: default
 
 # ABOUT ME
 
-Sparsh Kulshrestha (dotdotslash)
-Cybersecurity explorer: Uncovering the hidden landscapes of emerging threats, one pixel, packet, and shadow server at a time. My passion? Web apps, mobile, shadow IT, and CI security. Think of me as your friendly neighborhood threat detective, always on the lookout for the next big "uh-oh."
 
-My research is my currency: Featured in The Hindu, Zee Business, Moneycontrol, ZDnet, The Logical Indian, and more, I share my findings with the world, hoping to spark conversations and empower the community. You can also catch me at conferences like BSides Ahmedabad, Bsides Singapore, and C0c0n, geeking out with fellow security enthusiasts.
+## Sparsh Kulshrestha (dotdotslash)
+Cybersecurity researcher: venturing into the uncharted territories of emerging threats. My focus? Web applications, mobile, shadow IT, and critical infrastructure (CI) security. I dissect attacks with surgical precision, leaving no vulnerability unexamined.
 
-What you'll find here:
+My research is my compass: featured in The Hindu, Zee Business, Moneycontrol, ZDnet, The Logical Indian, and other renowned publications. I've also shared my findings at prominent conferences like BSides Ahmedabad, Bsides Singapore, and C0c0n, fostering dialogue within the cybersecurity community.
 
-* Deep dives into the latest threats: No jargon, just clear explanations, and insights you can use.
-* Countermeasures that actually work: I don't just point out the bad guys, I show you how to stop them.
-* A playground for the curious: Web apps, mobile, shadow IT, and CI – my research lab is open to all things strange and potentially attachable.
-* A community voice: My research is yours to explore, share, and build upon. Let's learn together!
-* This portfolio is my open invitation to the cybersecurity community. Come join me on this intellectual adventure, where knowledge is our weapon and collaboration our shield.
+Here, you'll discover:
 
-Ready to dig into the unknown? Let's nerd out!
+* Rigorous analysis: I deconstruct threats with meticulous methodology, providing actionable insights for all.
+* Effective countermeasures: My research goes beyond identification, offering practical solutions to mitigate vulnerabilities.
+* Emerging threat exploration: Web apps, mobile, shadow IT, and CI – I delve deep into the evolving attack landscape, anticipating the next frontier.
+* Open knowledge sharing: My research is your resource. Explore, adapt, and build upon it. Let's collectively fortify the digital realm.
+* This portfolio is a bridge: connecting my research with the cybersecurity community. It's an invitation to collaborate, learn, and push the boundaries of our knowledge together.
 
+Ready to embark on this intellectual journey? Let's explore the unseen.
 
-!(https://github.com/sparshkulshrestha/sparshkulshrestha.github.io/blob/main/favicon.png)
+![logo](favicon.png)
 
 
