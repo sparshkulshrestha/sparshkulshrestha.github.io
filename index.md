@@ -20,6 +20,6 @@ Here, you'll discover:
 
 Ready to embark on this intellectual journey? Let's explore the unseen.
 
-![logo](favicon.png)
+
 
 
