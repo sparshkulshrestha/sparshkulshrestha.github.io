@@ -11,11 +11,11 @@ My research is my currency: Featured in The Hindu, Zee Business, Moneycontrol, Z
 
 What you'll find here:
 
-** Deep dives into the latest threats: No jargon, just clear explanations, and insights you can use.
-** Countermeasures that actually work: I don't just point out the bad guys, I show you how to stop them.
-** A playground for the curious: Web apps, mobile, shadow IT, and CI – my research lab is open to all things strange and potentially attachable.
-** A community voice: My research is yours to explore, share, and build upon. Let's learn together!
-** This portfolio is my open invitation to the cybersecurity community. Come join me on this intellectual adventure, where knowledge is our weapon and collaboration our shield.
+* Deep dives into the latest threats: No jargon, just clear explanations, and insights you can use.
+* Countermeasures that actually work: I don't just point out the bad guys, I show you how to stop them.
+* A playground for the curious: Web apps, mobile, shadow IT, and CI – my research lab is open to all things strange and potentially attachable.
+* A community voice: My research is yours to explore, share, and build upon. Let's learn together!
+* This portfolio is my open invitation to the cybersecurity community. Come join me on this intellectual adventure, where knowledge is our weapon and collaboration our shield.
 
 Ready to dig into the unknown? Let's nerd out!
 
