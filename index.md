@@ -2,95 +2,24 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# ABOUT ME
 
-[Link to another page](./another-page.html).
+Sparsh Kulshrestha (dotdotslash)
+Cybersecurity explorer: Uncovering the hidden landscapes of emerging threats, one pixel, packet, and shadow server at a time. My passion? Web apps, mobile, shadow IT, and CI security. Think of me as your friendly neighborhood threat detective, always on the lookout for the next big "uh-oh."
 
-There should be whitespace between paragraphs.
+My research is my currency: Featured in The Hindu, Zee Business, Moneycontrol, ZDnet, The Logical Indian, and more, I share my findings with the world, hoping to spark conversations and empower the community. You can also catch me at conferences like BSides Ahmedabad, Bsides Singapore, and C0c0n, geeking out with fellow security enthusiasts.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+What you'll find here:
 
-# Header 1
+>> Deep dives into the latest threats: No jargon, just clear explanations, and insights you can use.
+>> Countermeasures that actually work: I don't just point out the bad guys, I show you how to stop them.
+>> A playground for the curious: Web apps, mobile, shadow IT, and CI – my research lab is open to all things strange and potentially attachable.
+>> A community voice: My research is yours to explore, share, and build upon. Let's learn together!
+>> This portfolio is my open invitation to the cybersecurity community. Come join me on this intellectual adventure, where knowledge is our weapon and collaboration our shield.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Ready to dig into the unknown? Let's nerd out!
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
