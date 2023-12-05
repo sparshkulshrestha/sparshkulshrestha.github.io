@@ -20,6 +20,6 @@ What you'll find here:
 Ready to dig into the unknown? Let's nerd out!
 
 
-![logo](https://github.com/sparshkulshrestha/sparshkulshrestha.github.io/blob/main/favicon.png)
+!(https://github.com/sparshkulshrestha/sparshkulshrestha.github.io/blob/main/favicon.png)
 
 
