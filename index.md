@@ -20,6 +20,12 @@ Here, you'll discover:
 
 Ready to embark on this intellectual journey? Let's explore the unseen.
 
+## CONTACT ME
+
+* Email: mr.sparsh.k@gmail.com
+* Twitter: https://twitter.com/dotdotslash_
+* Linkedin: https://www.linkedin.com/in/sparsh-kulshrestha-972a4b12a/
+
 
 
 
