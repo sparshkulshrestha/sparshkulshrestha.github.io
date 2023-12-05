@@ -6,6 +6,8 @@ layout: default
 ## Sparsh Kulshrestha (dotdotslash)
 Cybersecurity researcher: venturing into the uncharted territories of emerging threats. My focus? Web applications, mobile, shadow IT, and critical infrastructure (CI) security. I dissect attacks with surgical precision, leaving no vulnerability unexamined.
 
+Spearheading the fight against ever-evolving threats: I have extensive experience leading investigations into a diverse range of cyber incidents, including supply chain breaches, data leaks, financial frauds, dark web mentions, vulnerability exposures, and malware infections. My meticulous approach unearths the root cause, enabling swift mitigation and informed decision-making.
+
 My research is my compass: featured in The Hindu, Zee Business, Moneycontrol, ZDnet, The Logical Indian, and other renowned publications. I've also shared my findings at prominent conferences like BSides Ahmedabad, Bsides Singapore, and C0c0n, fostering dialogue within the cybersecurity community.
 
 Here, you'll discover:
